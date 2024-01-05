@@ -1,0 +1,12 @@
+
+.DS_Store
+
+build/.DS_Store
+.DS_Store
+node_modules
+public
+src
+package-lock.json
+package.json
+config-overrides.js
+yarn.lock
